@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SWショップウォッチャー</string>
+    <string name="company_name">nekonesoft</string>
+
+    <string name="navigation_drawer_open">ナビゲーションビューを開く</string>
+    <string name="navigation_drawer_close">ナビゲーションビューを閉じる</string>
+    <string name="navigation_menu_title">メニュー</string>
+
+    <string name="label_first_time">[ 初回時間 ]</string>
+    <string name="label_interval_time">[ 時間間隔 ]</string>
+    <string name="button_set">セット</string>
+    <string name="button_start">スタート</string>
+    <string name="button_stop">ストップ</string>
+    <string name="button_start_sw">スタート後 SWへ</string>
+    <string name="button_goto_sw">SWへ</string>
+
+    <string name="notif_ticker">サマナーズウォーのショップが更新されました！</string>
+    <string name="notif_title">SWショップウォッチャー</string>
+    <string name="notif_text">サマナーズウォーのショップが更新されました！</string>
+
+    <string name="toast_notif_nextalarm">次回のアラームをセットしました！</string>
+
+    <string name="menu_settings">設定</string>
+    <string name="menu_finish">終了</string>
+    <string name="menu_finish_confirm">本当にアプリを終了しますか？</string>
+    <string name="menu_finish_yes">はい</string>
+
+    <string name="settings_category_alarm">アラーム設定</string>
+    <string name="settings_title_vibration">バイブレーション</string>
+
+</resources>

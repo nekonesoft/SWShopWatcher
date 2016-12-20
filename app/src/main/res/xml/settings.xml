@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/settings_category_alarm" >
+        <ListPreference
+            android:defaultValue="1"
+            android:dialogTitle="@string/settings_title_vibration"
+            android:entries="@array/Vibration_name_list"
+            android:entryValues="@array/Vibration_value_list"
+            android:key="SettingsVibration"
+            android:summary="dummy"
+            android:title="@string/settings_title_vibration" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

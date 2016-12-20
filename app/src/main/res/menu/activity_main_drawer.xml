@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_item1"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="Calendar" />
+        <item
+            android:id="@+id/menu_item2"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Places" />
+    </group>
+    -->
+
+    <item android:title="@string/navigation_menu_title">
+        <menu>
+            <item
+                android:id="@+id/menu_drawer_settings"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/menu_settings" />
+            <item
+                android:id="@+id/menu_drawer_finish"
+                android:icon="@drawable/ic_power_settings_new_black_24dp"
+                android:title="@string/menu_finish" />
+        </menu>
+    </item>
+
+</menu>
